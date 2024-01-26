@@ -1,0 +1,282 @@
+{
+  "workouts": [
+    {
+      "name": "5/3/1 Press 1",
+      "sets": [
+        {
+          "name": "Press Begin (5/3/1 Press 1)",
+          "repeats": 1,
+          "exercises": [
+            {
+              "id": "press-day1-0",
+              "name": "Press [5]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 5,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 55,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            },
+            {
+              "id": "press-day1-1",
+              "name": "Press [10,5]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 5,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 75,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            },
+            {
+              "id": "press-day1-2",
+              "name": "Press [10,5,5]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 3,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 85,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            }
+          ],
+          "userAssignedName": "Press Begin",
+          "isBorrowable": true,
+          "isBorrowed": false
+        },
+        {
+          "name": "Press Middle",
+          "repeats": 1,
+          "exercises": [
+            {
+              "id": "press-day1-3",
+              "name": "Press [25,5]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 5,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 105,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            },
+            {
+              "id": "press-day1-4",
+              "name": "Press [35]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 5,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 115,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            },
+            {
+              "id": "press-day1-5",
+              "name": "Press [35]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 5,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 115,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            }
+          ],
+          "userAssignedName": "",
+          "isBorrowable": false,
+          "isBorrowed": false
+        },
+        {
+          "name": "Press BBB (5/3/1 Press 1)",
+          "repeats": 5,
+          "exercises": [
+            {
+              "id": "press-day1-6",
+              "name": "Press [10,5,5]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 10,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 85,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            }
+          ],
+          "userAssignedName": "Press BBB",
+          "isBorrowable": true,
+          "isBorrowed": false
+        }
+      ],
+      "archive": []
+    },
+    {
+      "name": "5/3/1 Press 2",
+      "sets": [
+        {
+          "name": "Press Begin (5/3/1 Press 1)",
+          "repeats": 1,
+          "exercises": [],
+          "userAssignedName": "Press Begin",
+          "isBorrowable": false,
+          "isBorrowed": true
+        },
+        {
+          "name": "Day 2 Middle Set",
+          "repeats": 1,
+          "exercises": [
+            {
+              "id": "press-day2-0",
+              "name": "Press [35]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 3,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 115,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            },
+            {
+              "id": "press-day2-1",
+              "name": "Press [35]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 3,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 115,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            },
+            {
+              "id": "press-day2-2",
+              "name": "Press [35,5]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 3,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 125,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            }
+          ],
+          "userAssignedName": "Day 2 Middle Set",
+          "isBorrowable": false,
+          "isBorrowed": false
+        },
+        {
+          "name": "Press BBB (5/3/1 Press 1)",
+          "repeats": 5,
+          "exercises": [],
+          "userAssignedName": "Press BBB",
+          "isBorrowable": false,
+          "isBorrowed": true
+        }
+      ],
+      "archive": []
+    },
+    {
+      "name": "5/3/1 Press 3",
+      "sets": [
+        {
+          "name": "Press Begin (5/3/1 Press 1)",
+          "repeats": 1,
+          "exercises": [],
+          "userAssignedName": "Press Begin",
+          "isBorrowable": false,
+          "isBorrowed": true
+        },
+        {
+          "name": "Day 3 Middle Set",
+          "repeats": 1,
+          "exercises": [
+            {
+              "id": "press-day3-0",
+              "name": "Press [25,5]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 5,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 105,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            },
+            {
+              "id": "press-day3-1",
+              "name": "Press [35]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 3,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 115,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            },
+            {
+              "id": "press-day3-2",
+              "name": "Press [45]",
+              "isReps": true,
+              "isDuration": false,
+              "repsDefault": 1,
+              "durationDefault": 30,
+              "isBodyweight": false,
+              "weightDefault": 135,
+              "isFree": true,
+              "sets": 0,
+              "successes": []
+            }
+          ],
+          "userAssignedName": "Day 3 Middle Set",
+          "isBorrowable": false,
+          "isBorrowed": false
+        },
+        {
+          "name": "Press BBB (5/3/1 Press 1)",
+          "repeats": 5,
+          "exercises": [],
+          "userAssignedName": "Press BBB",
+          "isBorrowable": false,
+          "isBorrowed": true
+        }
+      ],
+      "archive": []
+    },
+    {
+      "name": "5/3/1 Press 4",
+      "sets": [
+        {
+          "name": "Press Begin (5/3/1 Press 1)",
+          "repeats": 1,
+          "exercises": [],
+          "userAssignedName": "Press Begin",
+          "isBorrowable": false,
+          "isBorrowed": true
+        }
+      ],
+      "archive": []
+    }
+  ]
+}
